@@ -31,4 +31,4 @@ Additional Information:
 When I try to compile matrix.c I get no error messages with the program,
 but I think maybe I'm missing something to properly compile and I don't really know how to fix it
 I think the program should work but I'm unable to test, can't figure out why the default parameters are causing issues during compilation,
- since they should be getting replaced anyway
+since they should be getting replaced anyway
